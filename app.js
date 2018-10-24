@@ -1,1 +1,6 @@
-console.log("abc");
+console.log("abcd");
+
+function alert()
+{
+	console.log("Alert");
+}
